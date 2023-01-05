@@ -1,3 +1,9 @@
-form{
-    width: 500px;
+body{
+   background-color: #22978f;
+}
+p{
+    color: #9a2929;
+}
+h2{
+    font-size: 30px;
 }
